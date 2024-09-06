@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a=r,g=xr,o=xr hello
+chmod 745 hello
